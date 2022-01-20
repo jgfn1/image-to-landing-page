@@ -1,0 +1,99 @@
+.retangulo5 {
+  height: 40px;
+  width: 100%;
+  border-radius: 0px;
+  position: relative;
+  top: 50px;
+  background: #00e1be;
+  opacity: 0.57;
+}
+
+.retangulo2 {
+  background: #011913;
+  border: 1px solid #000000;
+}
+
+.retangulo8 {
+  left: -21px;
+  top: 925.0029296875px;
+  border-radius: 0px;
+
+  left: -1.09%;
+  right: 0.99%;
+  top: 13.07%;
+  bottom: 68.9%;
+
+  background: #001e1f;
+}
+.retangulo11 {
+  height: 1082px;
+  left: -20.589996337890625px;
+  top: 2200.0029296875px;
+  border-radius: 0px;
+
+  left: -1.07%;
+  right: 0.97%;
+  top: 31.07%;
+  bottom: 53.64%;
+
+  background: #001e1f;
+}
+.retangulo19 {
+  height: 735px;
+  left: -19.589996337890625px;
+  top: 3262.0029296875px;
+  border-radius: 0px;
+  left: -1.02%;
+  right: 0.97%;
+  top: 46.07%;
+  bottom: 43.55%;
+
+  background: #e0e0e0;
+}
+.retangulo0 {
+  left: -1.09%;
+  right: 1.04%;
+  top: 56.44%;
+  bottom: 29.72%;
+
+  background: url(assets/image3.png);
+}
+.retangulo20 {
+  height: 810px;
+  left: -19.589996337890625px;
+  top: 4976.0029296875px;
+  border-radius: 0px;
+
+  left: -1.02%;
+  right: 1.02%;
+  top: 70.28%;
+  bottom: 18.28%;
+
+  background: #e0e0e0;
+}
+.retangulo22 {
+  height: 637px;
+  left: -11px;
+  top: 5786px;
+  border-radius: 0px;
+
+  left: -0.57%;
+  right: 0.57%;
+  top: 81.72%;
+  bottom: 9.28%;
+
+  background: #001e1f;
+}
+.retangulo25 {
+  height: 627px;
+  left: -19.589996337890625px;
+  top: 6423.0029296875px;
+  border-radius: 0px;
+
+  left: -1.02%;
+  right: 1.02%;
+  top: 90.72%;
+  bottom: 0.42%;
+
+  background: #e0e0e0;
+}
