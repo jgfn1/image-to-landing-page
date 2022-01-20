@@ -13,8 +13,13 @@
   border-width: 0px;
   color: black;
   mix-blend-mode: lighten;
-  width: 100%;
+  width: 90%;
   text-align: center;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding: 1.5%;
+  font-size: 160%;
+  font-weight: bolder;
 }
 
 .divider-column {
@@ -96,6 +101,7 @@
   background: #e0e0e0;
 }
 .retangulo22 {
+  z-index: 9999;
   background: #001e1f;
 }
 .retangulo25 {
