@@ -17,6 +17,18 @@
   text-align: center;
 }
 
+.divider-column {
+  border-right: 1px solid;
+  display: flex;
+  align-items: center;
+}
+
+.divider-row {
+  border-bottom: 1px solid;
+  display: flex;
+  align-items: center;
+}
+
 .equal-height {
   display: -webkit-box;
   display: -webkit-flex;
@@ -106,6 +118,7 @@
 .retangulo0 {
   background-image: url(assets/image3.png);
   background-color: #001e1f;
+  height: 150%;
 }
 .retangulo20 {
   height: 810px;
