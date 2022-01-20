@@ -1,7 +1,3 @@
-html {
-  font-family: Catamaran;
-}
-
 .wf {
   color: white;
 }
@@ -17,8 +13,15 @@ html {
   border-width: 0px;
   color: black;
   mix-blend-mode: lighten;
-  width: 90%;
+  width: 100%;
   text-align: center;
+}
+
+.equal-height {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
 }
 
 .dyed-block {
