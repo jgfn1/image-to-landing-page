@@ -1,3 +1,12 @@
+.wf {
+  color: white;
+}
+
+.imag {
+  max-width: 100%;
+  max-height: 100%;
+}
+
 .retangulo5 {
   height: 50px;
   width: 100%;
@@ -30,6 +39,11 @@
 
   background: #001e1f;
 }
+
+.retangulo10 {
+  background: #036060;
+}
+
 .retangulo11 {
   height: 1082px;
   left: -20.589996337890625px;
@@ -56,12 +70,8 @@
   background: #e0e0e0;
 }
 .retangulo0 {
-  left: -1.09%;
-  right: 1.04%;
-  top: 56.44%;
-  bottom: 29.72%;
-
-  background: url(assets/image3.png);
+  background-image: url(assets/image3.png);
+  background-color: #001e1f;
 }
 .retangulo20 {
   height: 810px;
